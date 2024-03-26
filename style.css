@@ -1,0 +1,77 @@
+.head h1{
+    background-color: #0d6efd;
+    color: white;
+    font-weight: 400;
+    padding: 10px;
+}
+
+p{
+    text-align: center;
+}
+/* Service-Section */
+.service h2{
+    color: #0ccaf0;
+    text-align: center;
+    border-style: solid;
+    font-size: 24px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 60px;
+}
+.Creation{
+    margin-bottom: 80px;
+}
+.Creation h1{
+    background-color: #7d4b4b;
+    color: white;
+    display: inline;
+    padding: 30px;
+    border-radius: 0px 40px 40px 0px;
+    margin-left: 40px;
+}
+.seo{
+    text-align: right;
+    margin-bottom: 80px;
+}
+.seo h1{
+    background-color: #4f7d4b;
+    color: white;
+    display: inline;
+    padding: 30px;
+    border-radius: 40px 0px 0px 40px;
+    margin-right: 40px;
+}
+.optimization{
+    margin-bottom: 60px;
+}
+.optimization h1{
+    background-color: #340e9d;
+    color: white;
+    display: inline;
+    padding: 30px;
+    text-align: center;
+    border-radius: 0px 40px 40px 0px;
+    margin-left: 40px;
+}
+/* Contact Section */
+.contact{
+    color: #0ccaf0;
+    text-align: center;
+    border-style: solid;
+    font-size: 24px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 40px;
+}
+.form{
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* Footer Section */
+.footer h4{
+    background-color: #212529;
+    color: white;
+    padding: 20px;
+}
